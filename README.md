@@ -2,6 +2,17 @@
 
 An AI-powered learning assistant that generates personalized study plans based on a student's learning level, topic of interest, learning goals, and available daily study hours.
 
+
+An AI-powered application that generates personalized learning plans based on a user's topic and learning goals.
+
+## 🚀 Live Demo
+
+Try the application here: [AI Personalized Learning Coach](https://ai-personalized-learning-coach-3rvadcf5veo8epzggjsxyh.streamlit.app/)
+
+## 💻 GitHub Repository
+
+Source code: [View on GitHub](https://github.com/suppi2006/AI-Personalized-Learning-Coach)
+
 ## ✨ Features
 
 - 👤 Enter your name and learning profile.
@@ -28,7 +39,7 @@ An AI-powered learning assistant that generates personalized study plans based o
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/suppi2006/AI-Personalized-Learning-Coach
    ```
 
 2. Open the project folder:
